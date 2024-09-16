@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ekene Ifiora</h1>
 <h3 align="center">I am a senior at Vanderbilt majoring in Computer science and Math. I am really interested in Robotics, Artificial Intelligence and Kayaking!</h3>
 
-<! -- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekene-ifiora&label=Profile%20views&color=0e75b6&style=flat" alt="ekene-ifiora" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekene-ifiora&label=Profile%20views&color=0e75b6&style=flat" alt="ekene-ifiora" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekene-ifiora" alt="ekene-ifiora" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekene-ifiora" alt="ekene-ifiora" /></a> </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
